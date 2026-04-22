@@ -781,8 +781,8 @@ libgstreamer-plugins-good1.0-0                                                1.
 libgstreamer1.0-0                                                             1.24.2-1ubuntu0.1                      deb                         
 libgtk-3-0t64                                                                 3.24.41-4ubuntu1.3                     deb                         
 libgtk-3-common                                                               3.24.41-4ubuntu1.3                     deb                         
-libgtk-4-1                                                                    4.14.5+ds-0ubuntu0.9                   deb                         
-libgtk-4-common                                                               4.14.5+ds-0ubuntu0.9                   deb                         
+libgtk-4-1                                                                    4.14.5+ds-0ubuntu0.10                  deb                         
+libgtk-4-common                                                               4.14.5+ds-0ubuntu0.10                  deb                         
 libgudev-1.0-0                                                                1:238-5ubuntu1                         deb                         
 libharfbuzz-icu0                                                              8.3.0-2build2                          deb                         
 libharfbuzz0b                                                                 8.3.0-2build2                          deb                         
