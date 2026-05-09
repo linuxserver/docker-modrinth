@@ -1110,7 +1110,7 @@ media-types                                                                   10
 mesa-libgallium                                                               25.2.8-0ubuntu0.24.04.1                deb                         
 mesa-va-drivers                                                               25.2.8-0ubuntu0.24.04.1                deb                         
 mesa-vulkan-drivers                                                           25.2.8-0ubuntu0.24.04.1                deb                         
-modrinth-app                                                                  0.13.13                                deb                         
+modrinth-app                                                                  0.13.14                                deb                         
 more-itertools                                                                10.8.0                                 python                      
 mount                                                                         2.39.3-9ubuntu6.5                      deb                         
 msgpack                                                                       1.1.2                                  python                      
@@ -1145,7 +1145,7 @@ pillow                                                                        12
 pinentry-curses                                                               1.2.1-3ubuntu5                         deb                         
 pinentry-gnome3                                                               1.2.1-3ubuntu5                         deb                         
 pip                                                                           24.0                                   python                      
-pixelflux                                                                     1.6.2                                  python                      
+pixelflux                                                                     1.6.3                                  python                      
 platformdirs                                                                  4.4.0                                  python                      
 polkitd                                                                       124-2ubuntu1.24.04.3                   deb                         
 poppler-data                                                                  0.4.12-1                               deb                         
