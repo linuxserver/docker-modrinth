@@ -627,7 +627,7 @@ hostname                                                                      3.
 httplib2                                                                      0.20.4                                 python                      
 humanity-icon-theme                                                           0.6.16                                 deb                         
 hunspell-en-us                                                                1:2020.12.07-2                         deb                         
-idna                                                                          3.13                                   python                      
+idna                                                                          3.14                                   python                      
 ifaddr                                                                        0.2.0                                  python                      
 importlib-metadata                                                            8.7.1                                  python                      
 init-system-helpers                                                           1.66ubuntu1                            deb                         
@@ -1110,7 +1110,7 @@ media-types                                                                   10
 mesa-libgallium                                                               25.2.8-0ubuntu0.24.04.1                deb                         
 mesa-va-drivers                                                               25.2.8-0ubuntu0.24.04.1                deb                         
 mesa-vulkan-drivers                                                           25.2.8-0ubuntu0.24.04.1                deb                         
-modrinth-app                                                                  0.13.14                                deb                         
+modrinth-app                                                                  0.13.15                                deb                         
 more-itertools                                                                10.8.0                                 python                      
 mount                                                                         2.39.3-9ubuntu6.5                      deb                         
 msgpack                                                                       1.1.2                                  python                      
@@ -1145,7 +1145,7 @@ pillow                                                                        12
 pinentry-curses                                                               1.2.1-3ubuntu5                         deb                         
 pinentry-gnome3                                                               1.2.1-3ubuntu5                         deb                         
 pip                                                                           24.0                                   python                      
-pixelflux                                                                     1.6.3                                  python                      
+pixelflux                                                                     1.6.2                                  python                      
 platformdirs                                                                  4.4.0                                  python                      
 polkitd                                                                       124-2ubuntu1.24.04.3                   deb                         
 poppler-data                                                                  0.4.12-1                               deb                         
