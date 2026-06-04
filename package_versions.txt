@@ -1097,7 +1097,7 @@ mawk                                                                          1.
 media-types                                                                   14.0.0build1                           deb                         
 mesa-libgallium                                                               26.0.3-1ubuntu1                        deb                         
 mesa-vulkan-drivers                                                           26.0.3-1ubuntu1                        deb                         
-modrinth-app                                                                  0.14.3                                 deb                         
+modrinth-app                                                                  0.14.4                                 deb                         
 more-itertools                                                                10.3.0                                 python                      
 more-itertools                                                                10.8.0                                 python                      
 mount                                                                         2.41.3-3ubuntu2                        deb                         
