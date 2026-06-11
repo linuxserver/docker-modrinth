@@ -602,7 +602,7 @@ gstreamer1.0-gl                                                               1.
 gstreamer1.0-plugins-base                                                     1.28.2-1                               deb                         
 gstreamer1.0-plugins-good                                                     1.28.2-2                               deb                         
 gstreamer1.0-x                                                                1.28.2-1                               deb                         
-gtk-update-icon-cache                                                         4.22.2+ds-1ubuntu1                     deb                         
+gtk-update-icon-cache                                                         4.22.4+ds-0ubuntu0.1                   deb                         
 gzip                                                                          1.14-1~exp2ubuntu1                     deb                         
 hicolor-icon-theme                                                            0.18-2build1                           deb                         
 hostname                                                                      3.25build1                             deb                         
@@ -786,8 +786,8 @@ libgstreamer-plugins-extra1.0-0                                               1.
 libgstreamer1.0-0                                                             1.28.2-1                               deb                         
 libgtk-3-0t64                                                                 3.24.52-0ubuntu1                       deb                         
 libgtk-3-common                                                               3.24.52-0ubuntu1                       deb                         
-libgtk-4-1                                                                    4.22.2+ds-1ubuntu1                     deb                         
-libgtk-4-common                                                               4.22.2+ds-1ubuntu1                     deb                         
+libgtk-4-1                                                                    4.22.4+ds-0ubuntu0.1                   deb                         
+libgtk-4-common                                                               4.22.4+ds-0ubuntu0.1                   deb                         
 libgudev-1.0-0                                                                1:238-7build1                          deb                         
 libharfbuzz-icu0                                                              12.3.2-2                               deb                         
 libharfbuzz-subset0                                                           12.3.2-2                               deb                         
@@ -1098,7 +1098,7 @@ mawk                                                                          1.
 media-types                                                                   14.0.0build1                           deb                         
 mesa-libgallium                                                               26.0.3-1ubuntu1                        deb                         
 mesa-vulkan-drivers                                                           26.0.3-1ubuntu1                        deb                         
-modrinth-app                                                                  0.14.5                                 deb                         
+modrinth-app                                                                  0.14.6                                 deb                         
 more-itertools                                                                10.3.0                                 python                      
 more-itertools                                                                10.8.0                                 python                      
 mount                                                                         2.41.3-3ubuntu2                        deb                         
