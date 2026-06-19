@@ -783,7 +783,7 @@ libgsm1                                                                       1.
 libgssapi-krb5-2                                                              1.22.1-2ubuntu4                        deb                         
 libgstreamer-gl1.0-0                                                          1.28.2-1                               deb                         
 libgstreamer-plugins-base1.0-0                                                1.28.2-1                               deb                         
-libgstreamer-plugins-extra1.0-0                                               1.28.2-1ubuntu1                        deb                         
+libgstreamer-plugins-extra1.0-0                                               1.28.2-1ubuntu1.1                      deb                         
 libgstreamer1.0-0                                                             1.28.2-1                               deb                         
 libgtk-3-0t64                                                                 3.24.52-0ubuntu1                       deb                         
 libgtk-3-common                                                               3.24.52-0ubuntu1                       deb                         
@@ -1099,7 +1099,7 @@ mawk                                                                          1.
 media-types                                                                   14.0.0build1                           deb                         
 mesa-libgallium                                                               26.0.3-1ubuntu1                        deb                         
 mesa-vulkan-drivers                                                           26.0.3-1ubuntu1                        deb                         
-modrinth-app                                                                  0.14.6                                 deb                         
+modrinth-app                                                                  0.14.7                                 deb                         
 more-itertools                                                                10.3.0                                 python                      
 more-itertools                                                                10.8.0                                 python                      
 mount                                                                         2.41.3-3ubuntu2                        deb                         
