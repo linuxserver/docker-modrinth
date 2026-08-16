@@ -22,7 +22,7 @@ RUN \
     gnome-keyring && \
   if [ -z ${MODRINTH_VERSION+x} ]; then \
     MODRINTH_VERSION=$(curl -sX GET "https://api.github.com/repos/modrinth/code/releases/latest" \
-    | awk '/tag_name/{print $4;exit}' FS='[""]'); \
+    | jq -r '.tag_name'); \
   fi && \
   curl -o \
     /tmp/modrinth.deb -L \
